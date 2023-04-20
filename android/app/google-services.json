@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103356872153",
+    "project_id": "trackifyy-8bf02",
+    "storage_bucket": "trackifyy-8bf02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103356872153:android:03a9e3e88bc62b9e9715c8",
+        "android_client_info": {
+          "package_name": "com.example.trackifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103356872153-nolug2dr8ej47cnt28c540f1j2qlc9na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-qy5Vf3idSElUF8JYPcwEMq6kO-7kck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103356872153-nolug2dr8ej47cnt28c540f1j2qlc9na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
